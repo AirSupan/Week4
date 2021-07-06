@@ -1,0 +1,12 @@
+body {
+    background-color: #e6d754;
+}
+h1{
+    color: rgb(53, 47, 47);
+}
+.text {
+    color: rgb(202, 54, 170);
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
